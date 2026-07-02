@@ -1,0 +1,25 @@
+    body{
+        background-color: rgb(255, 255, 147);
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+h1{
+    margin-top: 20px;
+}
+
+.btn{
+    display: inline-block ;
+    padding: 12px 20px;
+    margin: 5px;
+    background-color: rgb(90, 12, 12);
+    color: white;
+    text-decoration: none;
+    border-radius: 10px;
+    font-weight: bold;}
+
+  .btn:hover {
+        background-color:red;
+    }
+.section{
+    margin-top: 40px;
+}
